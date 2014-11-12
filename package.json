@@ -1,0 +1,9 @@
+{
+  "name": "example-mmmagic",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "mmmagic": "^0.3.11"
+  }
+}
